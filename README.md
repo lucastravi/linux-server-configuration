@@ -231,7 +231,7 @@ oauth_flow = flow_from_clientsecrets('/var/www/itemsCatalog/vagrant/catalog/clie
 sudo service apache2 restart
 ```
 If something go wrong, debug is on ```/var/log/apache2/error.log```.
-<hr>
+
 ## References:
 1. https://medium.com/@mariasurmenok/creating-a-server-with-amazon-lightsail-11c377cf814c
 2. https://github.com/harushimo/linux-server-configuration
