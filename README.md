@@ -231,3 +231,11 @@ oauth_flow = flow_from_clientsecrets('/var/www/itemsCatalog/vagrant/catalog/clie
 sudo service apache2 restart
 ```
 If something go wrong, debug is on ```/var/log/apache2/error.log```.
+<hr>
+## References:
+1. https://medium.com/@mariasurmenok/creating-a-server-with-amazon-lightsail-11c377cf814c
+2. https://github.com/harushimo/linux-server-configuration
+3. https://github.com/SteveWooding/fullstack-nanodegree-linux-server-config
+4. https://github.com/AbigailMathews/FSND-P5
+6. https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
+7. https://lightsail.aws.amazon.com/ls/docs/en/all
